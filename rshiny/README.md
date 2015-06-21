@@ -5,3 +5,12 @@ inputs, and changes to inputs shall be reflected on the map in real time.
 
 This template app aims to serve as a stub for a data-driven, responsive web app
 based on R Shiny.
+
+## Starting points
+
+* R Shiny [gallery](http://shiny.rstudio.com/gallery/superzip-example.html)
+and [docs](http://shiny.rstudio.com/reference/shiny/latest/)
+* R Shiny Superzip example 
+[app](http://shiny.rstudio.com/gallery/superzip-example.html) and 
+[code](https://github.com/rstudio/shiny-examples/tree/master/063-superzip-example)
+
