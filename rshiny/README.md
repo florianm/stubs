@@ -19,6 +19,17 @@ and [docs](http://shiny.rstudio.com/reference/shiny/latest/)
 ### Hosting on RStudio's shiny-servers
 
 * Have an account at [shinyapps.io](http://www.copycatfilms.com/bloggin/silent-movie-title-card-free-download/)
+* Follow [instructions](http://shiny.rstudio.com/articles/shinyapps.html), especially
+mind memory settings
+
+```
+library(shinyapps)
+# run once with authorised settings:
+# shinyapps::setAccountInfo(name="<ACCOUNT>", token="<TOKEN>", secret="<SECRET>")
+deployApp()
+# memory settings
+shinyapps::configureApp("APPNAME", size="medium") # default 512 MB
+```
 
 ### Hosting on DpaW VMs
 
