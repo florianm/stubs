@@ -213,11 +213,11 @@ p83
 I0
 sS'thumb_location'
 p84
-S'/home/florianm/projects/govhack2015/video/thumbnail/1a3dab60-17d0-11e5-a864-40f02f6195e0_png_1.png'
+S'/home/florianm/projects/stubs/video/thumbnail/1a3dab60-17d0-11e5-a864-40f02f6195e0_png_1.png'
 p85
 sS'name'
 p86
-S'/home/florianm/projects/govhack2015/video/b4054ba8-17cc-11e5-a864-40f02f6195e0/govhack_flyover%04d.png'
+S'/home/florianm/projects/stubs/video/b4054ba8-17cc-11e5-a864-40f02f6195e0/govhack_flyover%04d.png'
 p87
 sg74
 NsS'file_type'
@@ -274,7 +274,7 @@ sS'is_timeline_scrolling'
 p106
 I00
 sg84
-S'/home/florianm/projects/govhack2015/video/thumbnail/1a3dab60-17d0-11e5-a864-40f02f6195e0_png_1.png'
+S'/home/florianm/projects/stubs/video/thumbnail/1a3dab60-17d0-11e5-a864-40f02f6195e0_png_1.png'
 p107
 sg86
 S'govhack_flyover%04d.png'
@@ -451,10 +451,10 @@ p161
 sg83
 I0
 sg84
-S'/home/florianm/projects/govhack2015/video/thumbnail/78f52998-17c7-11e5-a864-40f02f6195e0_mp3_1.png'
+S'/home/florianm/projects/stubs/video/thumbnail/78f52998-17c7-11e5-a864-40f02f6195e0_mp3_1.png'
 p162
 sg86
-S'/home/florianm/projects/govhack2015/video/music/summer_breeze-0.6.mp3'
+S'/home/florianm/projects/stubs/video/music/summer_breeze-0.6.mp3'
 p163
 sg74
 Nsg88
@@ -641,7 +641,7 @@ NsS'thumbnailer'
 p226
 NsS'folder'
 p227
-S'/home/florianm/projects/govhack2015/video'
+S'/home/florianm/projects/stubs/video'
 p228
 sS'USER_PROFILES_DIR'
 p229
